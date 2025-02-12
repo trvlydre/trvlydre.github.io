@@ -4,5 +4,7 @@ p {
 }
 
 .topBar {
-  margin: auto;
+   display: flex;
+  flex-direction: column; /* Stack the paragraphs vertically */
+  align-items: center; /* Align horizontally in the center */
 }
