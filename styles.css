@@ -5,6 +5,6 @@ p {
 }
 
 .topBar {
-   display: flex;
-  align-items: center; /* Align horizontally in the center */
+  display: flex;
+  flex-direction: row;
 }
