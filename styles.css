@@ -6,6 +6,7 @@ p {
 
 .topBar {
   display: flex;
+  float: right;
   flex-direction: row;
   gap: 40px;
 }
